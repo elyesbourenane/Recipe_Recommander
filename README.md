@@ -62,5 +62,5 @@ The application uses two server apps for recipe recommendations:
 
 3. Open your browser and visit `http://localhost:3000` to use the application.
 
-(capture_website.png)
+![capture](capture_website.png)
 
